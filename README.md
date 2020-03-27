@@ -4,3 +4,10 @@ The objective of this project is to forecast weather condition based on the prev
 The machine learning model is expected to be 90% accurate.<br>
 # IMPLEMENTATION:
 Use of Django framework to develop the website. The procedure involves collecting the datasets of temperature , windspeed,humidity, dew point and train the model using the datasets. Store the values which are predicted using model into the database. The stored predicted value can be used as training datasets for further prediction to improve the accuracy rate.
+# JUSTIFICATION:
+Out of all the algorithms implemented (Linear regression,Random forest regressor and Gradient boosting regressor), Linear regression is found to be the most efficient and accurate algorithm to predict weather.<br>
+Linear regression attempts to fit a straight hyperplane to the dataset that is closest to all data points. It is most suitable when there are linear relationships between the variables in the dataset.
+# Advantages
+Quick to compute and can be updated easily with new data.<br>
+Relatively easy to understand and explain.<br>
+Regularization techniques can be used to prevent overfitting.<br>
