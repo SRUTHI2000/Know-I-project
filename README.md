@@ -12,4 +12,4 @@ Linear regression attempts to fit a straight hyperplane to the dataset that is c
 Quick to compute and can be updated easily with new data.<br>
 Relatively easy to understand and explain.<br>
 Regularization techniques can be used to prevent overfitting.<br>
-![Optional Text](../master/WEATHER PREDICTION SYSTEM poster.png)
+![WEATHER PREDICTION SYSTEM poster](https://user-images.githubusercontent.com/45535217/78502384-99509080-777e-11ea-84cd-ad70d970f757.png)
