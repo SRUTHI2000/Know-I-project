@@ -13,3 +13,4 @@ Quick to compute and can be updated easily with new data.<br>
 Relatively easy to understand and explain.<br>
 Regularization techniques can be used to prevent overfitting.<br>
 ![WEATHER PREDICTION SYSTEM poster](https://user-images.githubusercontent.com/45535217/78502384-99509080-777e-11ea-84cd-ad70d970f757.png)
+ 
